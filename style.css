@@ -1,0 +1,84 @@
+body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.wrap {
+  width: 1500px;
+  height: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+.wrap_ineer {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 40px;
+  margin: 0 auto;
+}
+
+.wrap_ineer2 {
+  background-color: rgb(24, 199, 77);
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  padding: 40px;
+}
+
+.h1-one {
+  /* width: 800px; */
+  width: 750px;
+  height: 150px;
+  /* margin:0 auto; */
+  padding: 0px;
+  margin-left: 300px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.h1-two {
+  /* 플롯 라이트를 주면 오른쪽에 붙어요. */
+  float: right;
+  /* width: 800px; */
+  width: 750px;
+  height: 150px;
+  /* margin:0 auto; */
+  margin-right: 220px;
+  padding: 0px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.h1-three {
+  /* width: 800px; */
+  width: 750px;
+  height: 150px;
+  /* margin:0 auto; */
+  margin-left: 300px;
+  padding: 0px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.h1_enjoy {
+  width: 750px;
+  height: 150px;
+  color: aliceblue;
+  font-size: 170px;
+  font-weight: 800;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+/*span{
+    color: aliceblue;
+    font-size: 170px;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}*/
